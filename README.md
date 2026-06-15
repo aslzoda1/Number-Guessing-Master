@@ -53,3 +53,6 @@ Terminal: Terminalda paydo bo'lgan ko'rsatmalarga amal qilib, o'yinni boshlang.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F52FF&height=60&section=footer" width="100%"/>
 <b>💎 LOGIC MASTER — Built with ❤️ by Aslzoda 💎</b>
 </div>
+
+
+aslzoda
